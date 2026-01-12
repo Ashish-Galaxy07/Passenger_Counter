@@ -31,10 +31,10 @@ Vanilla JavaScript passenger counter app built with HTML + CSS + JS. Tracks stat
 - CSS Flexbox responsive layout
 
 ## Future Enhancements
-[ ] LocalStorage persistence
-[ ] Export CSV logs
-[ ] Multiple stations
-[ ] Dark mode
-[ ] React version (done!)
+- LocalStorage persistence
+- Export CSV logs
+- Multiple stations
+- Dark mode
+- React version (done!)
 
 Made with ❤️ using Vanilla JS
